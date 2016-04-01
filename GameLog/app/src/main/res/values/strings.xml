@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GameLog</string>
+    <string name="main_list_empty">Your backlog is empty</string>
+    <string name="main_menu_add">Add</string>
+    <string name="title_activity_add_gamelog">Add Log Activity</string>
+    <string name="action_settings">About</string>
+    <string name="add_gamelog_save">Save log item</string>
+    <string name="add_gamelog_gamelog_hint">Item description</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="new_item_header">Enter game info</string>
+    <string name="new_item_title_label">Title</string>
+    <string name="new_item_description_label">Description of the game</string>
+    <string name="new_item_icon_label">Game Site</string>
+    <string name="new_item_add_button">Add item to Backlog</string>
+    <string name="item_update_button">Update item</string>
+    <string name="title_activity_add_item">AddItem</string>
+    <string name="detail_name">Name</string>
+    <string name="detail_description">Description</string>
+    <string name="detail_steamsite">Site adress</string>
+    <string name="edit_button">Edit</string>
+
+    <string name="name_author">Darryl van Denzel</string>
+    <string name="student_number">500713267</string>
+    <string name="class_number">IVMD1</string>
+</resources>
